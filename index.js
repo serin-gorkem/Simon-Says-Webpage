@@ -5,7 +5,6 @@ var gamePattern = [];
 var userClickPattern = [];
 handleClick();
 function startOver() {
-  alert("startOver");
   level = 0;
   gamePattern = [];
   gameStarted = false;
